@@ -8,7 +8,7 @@ I embarked on my Python journey in 2021, laying a strong foundation in programmi
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [kianirel56@gmail.com](mailto:kianirel56@gmail.com)
-* 🧠  I'm learning NextJs and NestJs along with PostgreSQL
+* 🧠  I'm currently learning Springboot for building Rest Services along with PostgreSQL
 
 ### Skills
 

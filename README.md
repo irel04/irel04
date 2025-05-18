@@ -1,7 +1,7 @@
 Hi 👋 My name is Irel Kian Bacolod
 ==================================
 
-Junior Web Developer
+Junior Developer
 --------------------
 
 I embarked on my Python journey in 2021, laying a strong foundation in programming that has propelled me forward in various technological domains. My interest into web development began in 2022, where I honed my skills in HTML, CSS, and JavaScript, establishing a solid base for front-end development. With a passion for creating dynamic and responsive web applications, I delved into ReactJs, leveraging the powerful Vite build tool to enhance my development workflow. In 2023, I expanded my expertise to backend development, mastering Node.js and the Express framework to build robust and scalable server-side applications. Throughout my backend development journey, I utilized MySQL for database management and WampServer to streamline my local development environment. Currently, I am working as a front-end developer, where I apply my skills in real-world projects, continually refining my craft. My learning journey hasn't stopped there; I am now exploring PostgreSQL and the NestJS framework to further enhance my backend development capabilities. Additionally, I have integrated Tailwind CSS into my skill set, enabling me to create beautifully styled, highly functional user interfaces with ease.

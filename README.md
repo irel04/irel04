@@ -30,7 +30,7 @@ Driven by a desire to continuously learn and grow, I am always exploring new too
 
 **🛠 Other Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino,git, bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,arduino,git,bash)](https://skillicons.dev)
 
 
 

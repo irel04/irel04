@@ -4,7 +4,9 @@ Hello! I am Irel Kian 👩‍💻
 Software Developer
 ------------------------
 
-I am a passionate and experienced Front-end Developer with several years of hands-on experience building web applications that are not only visually appealing but also scalable and maintainable. 
+I am a passionate and experienced Front-end Developer with several years of hands-on experience building web applications that are not only visually appealing but also scalable and maintainable. My journey started in 2021 with Python, which laid a strong foundation in logic and problem-solving.
+
+I specialize in React.js and Tailwind CSS, and I often use UI libraries like DaisyUI, Material UI, SHADCN, and Tailwind UI. My design-to-code process is supported by my Figma proficiency, using components, auto-layouts, and prototyping.
 
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [kianirel56@gmail.com](mailto:kianirel56@gmail.com)

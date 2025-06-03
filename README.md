@@ -1,7 +1,7 @@
 Hello! I am Irel Kian 👩‍💻 
 ============================================================================================================================================
 
-Junior Software Developer
+Software Developer
 ------------------------
 
 I am a passionate and experienced Front-end Developer with several years of hands-on experience building web applications that are not only visually appealing but also scalable and maintainable. 
